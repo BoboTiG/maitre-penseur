@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10"
+   height="10"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   inkscape:export-filename="G:\Documents and Settings\-T2-\Mes documents\Téléchargements\jpcsp0.5win(rev1379)\jpcsp0.5win(rev1379)\ms0\PSP\GAME\Maitre_penseur\images\carre.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="symboles.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.5662175"
+     inkscape:cx="16.195271"
+     inkscape:cy="8.6449227"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="fond noir"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1042.3622)"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path2816"
+       sodipodi:cx="4.3781142"
+       sodipodi:cy="3.5773888"
+       sodipodi:rx="2.5194809"
+       sodipodi:ry="2.3336177"
+       d="m 6.8975952,3.5773888 a 2.5194809,2.3336177 0 1 1 -5.0389619,0 2.5194809,2.3336177 0 1 1 5.0389619,0 z"
+       transform="matrix(1.9845357,0,0,2.1425962,-3.6885242,1039.6973)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="rond"
+     style="display:none">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-opacity:1"
+       id="path2819"
+       sodipodi:cx="-11.791997"
+       sodipodi:cy="6.5512023"
+       sodipodi:rx="1.879285"
+       sodipodi:ry="1.879285"
+       d="m -9.912712,6.5512023 a 1.879285,1.879285 0 1 1 -3.75857,0 1.879285,1.879285 0 1 1 3.75857,0 z"
+       transform="matrix(1.4089237,0,0,1.4089237,21.614024,-4.2301442)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="triangle"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.70390546;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 4.9581509,2.2676176 7.6001851,6.7573871 2.3998151,6.7675611 4.9581509,2.267617 z"
+       id="path3615" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="carre"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke:#e32794;stroke-width:0.75;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3618"
+       width="5.1312547"
+       height="5.1312542"
+       x="2.4343729"
+       y="2.4343729"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="croix"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:8.42940998px;font-style:normal;font-weight:normal;fill:#0075ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="1.9397221"
+       y="8.6589661"
+       id="text3621"
+       transform="scale(1.1172859,0.89502607)"><tspan
+         sodipodi:role="line"
+         id="tspan3623"
+         x="1.9397221"
+         y="8.6589661"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0075ff;fill-opacity:1;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-20.195612"
+       y="-2.0239768"
+       id="text3594"><tspan
+         sodipodi:role="line"
+         id="tspan3596"
+         x="-20.195612"
+         y="-2.0239768"
+         style="font-size:4px">la police est Dejavu sans mono</tspan></text>
+  </g>
+</svg>
